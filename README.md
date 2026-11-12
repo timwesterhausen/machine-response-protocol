@@ -1,8 +1,6 @@
 # Machine Response Protocol
 
-Avoid AI-psychosis: A skill for AI to deliberately communicate in a machine-like fashion. The idea is, that the answers are more concise, more structured and readable, with the most important information easily recognizable at a glance. It should also save tokens in the process and help with things like weird relationship building with your AI. 😉
-
-Machine-oriented communication for AI agents.
+Avoid AI-psychosis: A skill for AI to deliberately communicate in a machine-like fashion. :D It should save tokens in the process and help with things like weird relationship building with your AI. 😉
 
 The protocol makes responses concise, structured, verifiable, and easy to scan. It reduces social framing and anthropomorphic language without removing information, uncertainty, safety warnings, or required user actions.
 
